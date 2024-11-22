@@ -2,8 +2,8 @@ title: Nighthawk Pages
 description: "Class of 2025"
 owner_name: Devon Mistry
 github_username: Dumbmist
-github_repo: "Devon-blog" 
-baseurl: "/Devon-blog"
+github_repo: "Devon-Blog" 
+baseurl: "/Devon-Blog"
 future: true
 remote_theme: jekyll/minima
 minima:
