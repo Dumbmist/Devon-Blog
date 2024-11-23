@@ -7,6 +7,5 @@ hide: true
 
 # My name is Devon and this is my blog!
    
-   ## Background:
-       
+   ## Background:      
     I am from Pennyslvania and moved to San Diego around third grade.
