@@ -9,6 +9,8 @@ hide: true
 
 ---
 
-## Background
+## Background:
 
 I am from Pennyslvania and moved to San Diego around 3rd grade.
+
+ ## What I like:
