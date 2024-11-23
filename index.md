@@ -5,11 +5,10 @@ description: Home Page
 hide: true
 ---
 
-# My name is _____ and this is my blog!
+# My name is Devon and this is my blog!
 
 ---
 
 ## Background
 
-I am from ________ and moved to _____ around ____ grade.
-
+I am from Pennyslvania and moved to San Diego around 3rd grade.
