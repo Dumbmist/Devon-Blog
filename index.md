@@ -18,4 +18,4 @@ I am from Pennyslvania and moved to San Diego around 3rd grade.
 
 Content coming in theaters near you...
 
-![I like tennis](https://i.imgur.com/e1aaU7I.png)
+<img src="https://i.imgur.com/e1aaU7I.png" alt="AutoDraw Blog Image" width="150">
