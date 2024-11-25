@@ -20,3 +20,4 @@ Content coming in theaters near you...
 
 <img src="https://i.imgur.com/e1aaU7I.png" alt="AutoDraw Blog Image" width="150">
 <img src="https://i.imgur.com/Bsq3mNO.png" alt="Brawl stars" width="200">
+<img src="https://i.imgur.com/HzI4zBx.png" alt="Reading!" width="150">
