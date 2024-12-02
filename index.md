@@ -20,7 +20,6 @@ Content coming in theaters near you... JK - I do work
 (Im not an artist but I tried my best)
 
 <img src="https://i.imgur.com/e1aaU7I.png" alt="Yeonix Ezone 100+" width="150">
-<img src="https://i.imgur.com/Bsq3mNO.png" alt="Brawl stars" width="200">
+<img src="https://autodraw 11_24_2024.png" alt="Brawl stars" width="200">
 <img src="https://i.imgur.com/HzI4zBx.png" alt="Reading!" width="150">
-
 <img src="https://i.imgur.com/ws3MLoX.png" alt="Pasta" width="200">
