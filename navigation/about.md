@@ -82,6 +82,39 @@ Fav Day  | Friday| Sunday |Saturday| Monday|
 Origin  |  PA!  |England |   PA!  |  PA!  | <-- *PA= Pensylvania
 
 ---
+
+## My favorite books (/series) - scroll right to see more
+
+<div class="image-gallery">
+  <img src="https://newbookrecommendation.com/wp-content/uploads/2024/07/Stellarlune.webp" alt="Keepers of the lost cities">
+  <img src="https://m.media-amazon.com/images/I/81p6PiiJTxL._AC_UF1000,1000_QL80_.jpg" alt="Percy jackson">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/0*WFpBCJ6uVdePRMip" alt="Inheritence cycle">
+  <img src="https://m.media-amazon.com/images/I/91pJU6xO8EL._AC_UF1000,1000_QL80_.jpg" alt="Pasta">
+  <img src="https://m.media-amazon.com/images/I/61ekrONESOL._AC_UF1000,1000_QL80_.jpg" alt="rafe khatchadorien">
+  <img src="https://m.media-amazon.com/images/I/91LOaNgPQYL._AC_UF1000,1000_QL80_.jpg" alt="Trials of apollo">
+  <img src="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781665912792/skandar-and-the-chaos-trials-9781665912792_hr.jpg" alt="Skandar">
+</div>
+<br>
+<div class="image-gallery">
+  <img src="https://embed.cdn.pais.scholastic.com/v1/products/identifiers/isbn/9780545535212/primary/renditions/600?useMissingImage=true" alt="Nostalgia - spirit animals">
+  <img src="https://m.media-amazon.com/images/I/9103+B-YPbL.jpg" alt="Land of stories">
+  <img src="https://m.media-amazon.com/images/I/71gT6DPAcnL.jpg" alt="Story theives">
+  <img src="https://heartfullofbooks.com/wp-content/uploads/2015/08/kane-chronicles.jpg" alt="kane chronicles">
+  <img src="https://weebrevues.com/wp-content/uploads/2021/06/magnus-chase-banner.png?w=1024" alt="Magnus chase">
+  <img src="https://m.media-amazon.com/images/I/81yL8IS0ZvL.jpg" alt="spy school">
+  <img src="https://media.newyorker.com/photos/590957adebe912338a373ad0/master/pass/LOTRcovers_opt.jpg" alt="Lord of the rings">
+</div>
+
+---
+
 # The End... for now
 
-<script src="https://utteranc.es/client.js" repo="Dumbmist/Devon-Blog" issue-term="title" label="blogpost-comment" theme="github-light" crossorigin="anonymous" async> </script>
+<script
+     src="https://utteranc.es/client.js"
+        repo="Dumbmist/Devon-Blog"
+        issue-term="title"
+        label="blogpost-comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
